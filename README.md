@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/juanfernandezgracia/SDH_epi_modeling_manu/tree/gh-pages) branch hosts the contents of this directory at <https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/>.
-The permalink for this webpage version is <https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/v/62f1c5f2a361d616ffb6da22e3d877a5cb22657b/>.
+The permalink for this webpage version is <https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/v/073ce0e4e81c82e1ce8c55caeab0ebc6fd0f840c/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`62f1c5f2a361d616ffb6da22e3d877a5cb22657b`](https://github.com/juanfernandezgracia/SDH_epi_modeling_manu/commit/62f1c5f2a361d616ffb6da22e3d877a5cb22657b).
+[`073ce0e4e81c82e1ce8c55caeab0ebc6fd0f840c`](https://github.com/juanfernandezgracia/SDH_epi_modeling_manu/commit/073ce0e4e81c82e1ce8c55caeab0ebc6fd0f840c).
