@@ -1,26 +1,18 @@
 ---
-title: "Manuscript Title"
+title: "SDH mathematical model"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - Social Determinants of Health
+  - epidemics
+  - mathematical modeling
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
+  - github: juanfernandezgracia
+    name: Juan Fernández-Gracia
+    initials: JF-G
     orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    twitter: JuanFerGra
+    email: juanf@ifisc.uib-csic.es
     affiliations:
-      - Department of Something, University of Whatever
+      - IFISC (UIB-CSIC)
     funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - UIB postdoct program
