@@ -13,6 +13,19 @@ authors:
     twitter: JuanFerGra
     email: juanf@ifisc.uib-csic.es
     affiliations:
-      - IFISC (UIB-CSIC)
+      - IFISC (CSIC-UIB), Palma de Mallorca, Spain
     funders:
       - UIB postdoct program
+  - name: Juan M. Pericàs
+    initials: JMP
+    affiliations:
+      - Infectious Disease Department, Hospital Clínic de Barcelona, Barcelona, Spain
+      - Vall d’Hebron Institute for Research (VHIR), Barcelona, Spain
+  - name: Víctor M. Eguíluz
+    initials: VME
+    affiliations:
+      - IFISC (CSIC-UIB), Palma de Mallorca, Spain
+  - name: Joan Benach
+    initials: JB
+    affiliations:
+      - GREDS-EMCONET, Department of Political and Social Sciences, UPF, Barcelona, Catalonia, Spain
