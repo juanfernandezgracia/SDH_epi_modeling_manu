@@ -7,11 +7,14 @@
       "mathematical modeling"
     ],
     "lang": "en-US",
-    "date-meta": "2020-04-21",
+    "date-meta": "2020-05-19",
     "author-meta": [
-      "Juan Fernández-Gracia"
+      "Juan Fernández-Gracia",
+      "Juan M. Pericàs",
+      "Víctor M. Eguíluz",
+      "Joan Benach"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"SDH mathematical model\" />\n<meta name=\"citation_title\" content=\"SDH mathematical model\" />\n<meta property=\"og:title\" content=\"SDH mathematical model\" />\n<meta property=\"twitter:title\" content=\"SDH mathematical model\" />\n<meta name=\"dc.date\" content=\"2020-04-21\" />\n<meta name=\"citation_publication_date\" content=\"2020-04-21\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Juan Fernández-Gracia\" />\n<meta name=\"citation_author_institution\" content=\"IFISC (UIB-CSIC)\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@JuanFerGra\" />\n<link rel=\"canonical\" href=\"https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/\" />\n<meta property=\"og:url\" content=\"https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/\" />\n<meta property=\"twitter:url\" content=\"https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/\" />\n<meta name=\"citation_pdf_url\" content=\"https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/v/dc4c1c2e88cd306c9f70478bc7825a0b7e091628/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/v/dc4c1c2e88cd306c9f70478bc7825a0b7e091628/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/v/dc4c1c2e88cd306c9f70478bc7825a0b7e091628/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"SDH mathematical model\" />\n<meta name=\"citation_title\" content=\"SDH mathematical model\" />\n<meta property=\"og:title\" content=\"SDH mathematical model\" />\n<meta property=\"twitter:title\" content=\"SDH mathematical model\" />\n<meta name=\"dc.date\" content=\"2020-05-19\" />\n<meta name=\"citation_publication_date\" content=\"2020-05-19\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Juan Fernández-Gracia\" />\n<meta name=\"citation_author_institution\" content=\"IFISC (CSIC-UIB), Palma de Mallorca, Spain\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@JuanFerGra\" />\n<meta name=\"citation_author\" content=\"Juan M. Pericàs\" />\n<meta name=\"citation_author_institution\" content=\"Infectious Disease Department, Hospital Clínic de Barcelona, Barcelona, Spain\" />\n<meta name=\"citation_author_institution\" content=\"Vall d’Hebron Institute for Research (VHIR), Barcelona, Spain\" />\n<meta name=\"citation_author\" content=\"Víctor M. Eguíluz\" />\n<meta name=\"citation_author_institution\" content=\"IFISC (CSIC-UIB), Palma de Mallorca, Spain\" />\n<meta name=\"citation_author\" content=\"Joan Benach\" />\n<meta name=\"citation_author_institution\" content=\"GREDS-EMCONET, Department of Political and Social Sciences, UPF, Barcelona, Catalonia, Spain\" />\n<link rel=\"canonical\" href=\"https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/\" />\n<meta property=\"og:url\" content=\"https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/\" />\n<meta property=\"twitter:url\" content=\"https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/\" />\n<meta name=\"citation_pdf_url\" content=\"https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/v/9bbe93d55d6d0f5cce95bf117cdc45fb440b1e82/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/v/9bbe93d55d6d0f5cce95bf117cdc45fb440b1e82/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/v/9bbe93d55d6d0f5cce95bf117cdc45fb440b1e82/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -21,7 +24,7 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "April 21, 2020",
+    "date": "May 19, 2020",
     "authors": [
       {
         "github": "juanfernandezgracia",
@@ -31,7 +34,7 @@
         "twitter": "JuanFerGra",
         "email": "juanf@ifisc.uib-csic.es",
         "affiliations": [
-          "IFISC (UIB-CSIC)"
+          "IFISC (CSIC-UIB), Palma de Mallorca, Spain"
         ],
         "funders": [
           "UIB postdoct program"
@@ -39,12 +42,56 @@
         "affiliation_numbers": [
           1
         ]
+      },
+      {
+        "name": "Juan M. Pericàs",
+        "initials": "JMP",
+        "affiliations": [
+          "Infectious Disease Department, Hospital Clínic de Barcelona, Barcelona, Spain",
+          "Vall d’Hebron Institute for Research (VHIR), Barcelona, Spain"
+        ],
+        "affiliation_numbers": [
+          2,
+          3
+        ]
+      },
+      {
+        "name": "Víctor M. Eguíluz",
+        "initials": "VME",
+        "affiliations": [
+          "IFISC (CSIC-UIB), Palma de Mallorca, Spain"
+        ],
+        "affiliation_numbers": [
+          1
+        ]
+      },
+      {
+        "name": "Joan Benach",
+        "initials": "JB",
+        "affiliations": [
+          "GREDS-EMCONET, Department of Political and Social Sciences, UPF, Barcelona, Catalonia, Spain"
+        ],
+        "affiliation_numbers": [
+          4
+        ]
       }
     ],
     "affiliations": [
       {
-        "affiliation": "IFISC (UIB-CSIC)",
+        "affiliation": "IFISC (CSIC-UIB), Palma de Mallorca, Spain",
         "affiliation_number": 1
+      },
+      {
+        "affiliation": "Infectious Disease Department, Hospital Clínic de Barcelona, Barcelona, Spain",
+        "affiliation_number": 2
+      },
+      {
+        "affiliation": "Vall d’Hebron Institute for Research (VHIR), Barcelona, Spain",
+        "affiliation_number": 3
+      },
+      {
+        "affiliation": "GREDS-EMCONET, Department of Political and Social Sciences, UPF, Barcelona, Catalonia, Spain",
+        "affiliation_number": 4
       }
     ],
     "ci_source": {
@@ -52,19 +99,19 @@
       "repo_slug": "juanfernandezgracia/SDH_epi_modeling_manu",
       "repo_owner": "juanfernandezgracia",
       "repo_name": "SDH_epi_modeling_manu",
-      "commit": "dc4c1c2e88cd306c9f70478bc7825a0b7e091628",
-      "triggering_commit": "dc4c1c2e88cd306c9f70478bc7825a0b7e091628",
-      "build_url": "https://github.com/juanfernandezgracia/SDH_epi_modeling_manu/commit/dc4c1c2e88cd306c9f70478bc7825a0b7e091628/checks",
+      "commit": "9bbe93d55d6d0f5cce95bf117cdc45fb440b1e82",
+      "triggering_commit": "9bbe93d55d6d0f5cce95bf117cdc45fb440b1e82",
+      "build_url": "https://github.com/juanfernandezgracia/SDH_epi_modeling_manu/commit/9bbe93d55d6d0f5cce95bf117cdc45fb440b1e82/checks",
       "job_url": "https://github.com/juanfernandezgracia/SDH_epi_modeling_manu/runs/run2"
     },
     "html_url": "https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/",
     "pdf_url": "https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/manuscript.pdf",
-    "html_url_versioned": "https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/v/dc4c1c2e88cd306c9f70478bc7825a0b7e091628/",
-    "pdf_url_versioned": "https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/v/dc4c1c2e88cd306c9f70478bc7825a0b7e091628/manuscript.pdf",
+    "html_url_versioned": "https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/v/9bbe93d55d6d0f5cce95bf117cdc45fb440b1e82/",
+    "pdf_url_versioned": "https://juanfernandezgracia.github.io/SDH_epi_modeling_manu/v/9bbe93d55d6d0f5cce95bf117cdc45fb440b1e82/manuscript.pdf",
     "manubot_version": "0.3.1",
     "rootstock_commit": "073ce0e4e81c82e1ce8c55caeab0ebc6fd0f840c",
     "manuscript_stats": {
-      "word_count": 246
+      "word_count": 1508
     }
   }
 }
